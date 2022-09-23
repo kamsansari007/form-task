@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/form-task/static/css/main.0ebefe50.css",
+    "main.js": "/form-task/static/js/main.606a166c.js",
+    "static/js/787.3b9f2108.chunk.js": "/form-task/static/js/787.3b9f2108.chunk.js",
+    "static/media/bg.png": "/form-task/static/media/bg.dd6ac30ab1d1e75d109b.png",
+    "index.html": "/form-task/index.html",
+    "main.0ebefe50.css.map": "/form-task/static/css/main.0ebefe50.css.map",
+    "main.606a166c.js.map": "/form-task/static/js/main.606a166c.js.map",
+    "787.3b9f2108.chunk.js.map": "/form-task/static/js/787.3b9f2108.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebefe50.css",
+    "static/js/main.606a166c.js"
+  ]
+}
